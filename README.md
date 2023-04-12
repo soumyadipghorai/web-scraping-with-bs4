@@ -1,31 +1,3 @@
-Skip to content
-Product
-Solutions
-Open Source
-Pricing
-Search
-Sign in
-Sign up
-soumyadipghorai
-/
-web-scraping-with-bs4
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-web-scraping-with-bs4/README.md
-@soumyadipghorai
-soumyadipghorai Update README.md
-Latest commit 5015494 on Sep 3, 2021
- History
- 1 contributor
-27 lines (15 sloc)  1.25 KB
- 
-
 ## <p align = center>Web scraping with BS4<p>
 
  ###  Datasets : 
